@@ -1,0 +1,12 @@
+E:\Projects\C#\Hemy\Hemy\bin\Debug\net6.0\Hemy.deps.json
+E:\Projects\C#\Hemy\Hemy\bin\Debug\net6.0\Hemy.dll
+E:\Projects\C#\Hemy\Hemy\bin\Debug\net6.0\Hemy.pdb
+E:\Projects\C#\Hemy\Hemy\obj\Debug\net6.0\Hemy.csproj.AssemblyReference.cache
+E:\Projects\C#\Hemy\Hemy\obj\Debug\net6.0\Hemy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Hemy\Hemy\obj\Debug\net6.0\Hemy.AssemblyInfoInputs.cache
+E:\Projects\C#\Hemy\Hemy\obj\Debug\net6.0\Hemy.AssemblyInfo.cs
+E:\Projects\C#\Hemy\Hemy\obj\Debug\net6.0\Hemy.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Hemy\Hemy\obj\Debug\net6.0\Hemy.dll
+E:\Projects\C#\Hemy\Hemy\obj\Debug\net6.0\refint\Hemy.dll
+E:\Projects\C#\Hemy\Hemy\obj\Debug\net6.0\Hemy.pdb
+E:\Projects\C#\Hemy\Hemy\obj\Debug\net6.0\ref\Hemy.dll

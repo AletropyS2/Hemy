@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{E8253E7C-65DB-4227-9178-15CB8DB668F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hemy", "Hemy\Hemy.csproj", "{A0F3D195-C330-4756-9D01-16C52F6D717C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A79C0FB-A0A2-40E6-9F47-B701B65E010F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A79C0FB-A0A2-40E6-9F47-B701B65E010F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A79C0FB-A0A2-40E6-9F47-B701B65E010F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A79C0FB-A0A2-40E6-9F47-B701B65E010F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8253E7C-65DB-4227-9178-15CB8DB668F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8253E7C-65DB-4227-9178-15CB8DB668F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8253E7C-65DB-4227-9178-15CB8DB668F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8253E7C-65DB-4227-9178-15CB8DB668F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F3D195-C330-4756-9D01-16C52F6D717C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F3D195-C330-4756-9D01-16C52F6D717C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F3D195-C330-4756-9D01-16C52F6D717C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F3D195-C330-4756-9D01-16C52F6D717C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
